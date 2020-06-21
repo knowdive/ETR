@@ -1,25 +1,22 @@
 # ETR
 KR2020 Conference Paper - Data and processes 
 
-##Process
+## Process
 
 Use the .xml process to run ETR full pipeline. 
 
 Use [RapidMiner](https://rapidminer.com/) + the [Text Proecessing](https://marketplace.rapidminer.com/UpdateServer/faces/product_details.xhtml?productId=rmx_text) extension to run the process.
 
-##Files
+## Files
 
-Each file encode the portion of the reference KGB used in the experiments (i.e., Schema.org, SUMO, Cyc and DBpedia)
+Each file encode the portion of the reference KGB used in the experiments (i.e., Schema.org, SUMO, OpenCyc and DBpedia)
 
 
 ## Usage
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```
+import ETR.v00
+import (schema.xlsx | SUMO.xlsx | opencyc.xlsx | DBpedia.xlsx) # returns prediction accuracy + confusion matrix 
 ```
 
 ## Contributing

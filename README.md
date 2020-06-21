@@ -16,7 +16,8 @@ Each file encode the portion of the reference KGB used in the experiments (i.e.,
 
 ```
 import ETR.v00
-import (schema.xlsx | SUMO.xlsx | opencyc.xlsx | DBpedia.xlsx) # returns prediction accuracy + confusion matrix 
+import (schema.xlsx | SUMO.xlsx | opencyc.xlsx | DBpedia.xlsx) 
+select the types to be recognized (use "select attributes" operator) # returns prediction accuracy + confusion matrix 
 ```
 
 ## Contributing

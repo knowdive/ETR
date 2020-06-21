@@ -20,9 +20,8 @@ import (schema.xlsx | SUMO.xlsx | opencyc.xlsx | DBpedia.xlsx) # returns predict
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+If you found this resources helpful, please consider citing:
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[Entity Type Recognition – dealing with the Diversity of Knowledge] - Principles of Knowledge Representation and Reasoning: Proceedings of the Seventeenth International Conference, KR 2020
+

@@ -9,7 +9,7 @@ Use [RapidMiner](https://rapidminer.com/) + the [Text Proecessing](https://marke
 
 ## Files
 
-Each file encode the portion of the reference KGB used in the experiments (i.e., Schema.org, SUMO, OpenCyc and DBpedia)
+Each file encodes the portion of the reference KB used in the experiments (i.e., Schema.org, SUMO, OpenCyc and DBpedia)
 
 
 ## Usage
